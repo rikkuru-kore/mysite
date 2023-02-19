@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "../../../../../scraping"
+	},
+	{
+		"path": "../../../../../hand-made APP"
+	},
+	{
+		"path": "../../../../../HTML・CSS演習"
+	},
+	{
+		"path": "../../../.."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "HTML・CSS演習"
+  }
+}

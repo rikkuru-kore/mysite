@@ -1,0 +1,10 @@
+{% extends 'base.html' %} {% block content %}
+<div class="my-3">
+    <h2>ログイン</h2>
+</div>
+<form action="" method="POST">
+    {% csrf_token %}
+    <table class="table">{{form.as_table}}</table>
+    <input type="submit" value="送信" class="btn col-6 btn-success" />
+</form>
+{%endblock %}
